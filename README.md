@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Simote!
 
-<!--
-**Simotesamate5/Simotesamate5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>E-Commerce Projrct</b>
+  -[E-Commerce](https://github.com/Simotesamate5/E-Commerce-Project/tree/main)
+- <b> Auto Budgeting Project</b>
+  -[Auto Budgeting](https://github.com/Simotesamate5/AutoBudgeting)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+  <h2> 🤳 Connect with me:</h2>
+
+
